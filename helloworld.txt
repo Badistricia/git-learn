@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-hello git! hello badistricia!!! gawu!!!changed
-master branch
-=======
-hello git! hello badistricia!!! gawu!!!changed hot-fixd branch changed!!
->>>>>>> hot-fix
+hello git! hello badistricia!!! gawu!!!changed master branch
+
+hello!!
+hello!!
+hello!!
